@@ -1,6 +1,8 @@
 <h1 align="center">H! 👋 </h1>
 <h2 align="center">I am Muhammad Hassan Naeem</h2>
 
+&emsp; ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h2 >🌐 Connect with me </h2>
 
 <p align="left">
@@ -37,6 +39,5 @@
 
 <h2> 📄 Know about my Experiences &emsp; <a href="https://drive.google.com/file/d/1meTRvcRL1UoWUUBaiPFUR4OO-30v2Go1/view?usp=sharing" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Resume-Here-orange?style=for-the-badge" alt="Resume" /> </a> </h2>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
