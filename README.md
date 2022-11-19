@@ -26,7 +26,6 @@
 | **Others**                 | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &emsp; <a href="https://www.npmjs.com//" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="60" height="40"/> </a> &emsp; <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="60" height="40"/> </a>   |
 <br>
 
-<h2> 📄 Know about my Experiences &emsp; <a href="https://drive.google.com/file/d/1mO-cblXFtbohj5sCCYbA_7A7DU7TXQSn/view?usp=sharing" target="_blank" rel="noreferrer" > <img src="https://img.shields.io/badge/Resume-Here-orange?style=for-the-badge" alt="Resume" /> </a> </h2>
 
 
 
